@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09T11:05:43+00:00\n"
+"PO-Revision-Date: 2022-02-09 17:34+0000\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1\n"
+
+msgid "plugins.importexport.xls2native.displayName"
+msgstr "Plugin per convertire da file xlsx  al formato XML nativo"
+
+msgid "plugins.importexport.xls2native.description"
+msgstr "Converte articoli da file xlsx nel formato xml nativo di OJS"
+
+msgid "plugins.importexport.xls2native.import"
+msgstr "Converti"
+
+msgid "plugins.importexport.xls2native.import.err.cli"
+msgstr "<strong>Attenzione:</strong> Il convertitore da file XLSX a XML nativo di OJS non è stato configurato correttamente nel file di configurazione config.inc.php. La configurazione dipende dalla tua configurazione del server. Deve esser inserita nella sezione [cli], con l'opzione \"<b>xlsx2csv</b>\""
+
+msgid "plugins.importexport.xls2native.import.err.xlsx2csv"
+msgstr "<b>xlsx2csv</b> opzione di configurazione non trovata.</br>Usare:</br>xlsx2csv = \"php percorso-file-convert.php {xlsx} percorso-dir-file-pdf percorso-output-dir\""
+
+msgid "plugins.importexport.xls2native.import.instructions"
+msgstr "Carica un file XLSX per convertirlo in XML"
+
+msgid "plugins.importexport.xls2native.import.err.xlsx2csv"
+msgstr ""
+
+msgid "plugins.importexport.xls2native.import.err.xlsxpdfdir"
+msgstr ""
+
+msgid "plugins.importexport.xls2native.import.err.xlsxoutdir"
+msgstr ""
+
+msgid "plugins.importexport.xls2native.cliUsage"
+msgstr "Uso: {$scriptName} {$pluginName} xlsxfile\n"
+
+msgid "plugins.importexport.xls2native.results"
+msgstr "Risultati"
+
+msgid "plugins.importexport.xls2native.clickdownload"
+msgstr "Clicca per iniziare il download dell'esportazione in XML"
+

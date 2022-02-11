@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-02-09T06:56:45-07:00\n"
+"PO-Revision-Date: 2019-02-09T06:56:45-07:00\n"
+"Language: \n"
+
+msgid "plugins.importexport.xls2native.displayName"
+msgstr "xlsx to native XML Plugin"
+
+msgid "plugins.importexport.xls2native.description"
+msgstr "Convert xlsx metadata file to native XML format."
+
+msgid "plugins.importexport.xls2native.import"
+msgstr "Convert"
+
+msgid "plugins.importexport.xls2native.import.instructions"
+msgstr "Upload an xlsx file to convert into native OJS xml"
+
+msgid "plugins.importexport.xls2native.import.err.cli"
+msgstr "<strong>WARNING:</strong> The XLSX converter to native OJS XML import plugin has not been configured in the config.inc.php configuration file. The configuration will depend on your server configuration. It should be specified in a section called [cli], in a configuration option called \"<b>xlsx2csv</b>\""
+
+msgid "plugins.importexport.xls2native.import.err.xlsx2csv"
+msgstr "<b>xlsx2csv</b> configuration option not found.</br>Use:</br>xlsx2csv = \"php path-to-convert.php {xlsx} path-to-pdf-dir output-dir\""
+
+msgid "plugins.importexport.xls2native.results"
+msgstr "Results"
+
+msgid "plugins.importexport.xls2native.cliUsage"
+msgstr "Usage: {$scriptName} {$pluginName} xlsxfile\n"
+
+msgid "plugins.importexport.xls2native.results"
+msgstr "Results"
+
+msgid "plugins.importexport.xls2native.clickdownload"
+msgstr "Click to start the XML export download"
+
