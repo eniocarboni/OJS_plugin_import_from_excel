@@ -27,7 +27,7 @@ msgid "plugins.importexport.xls2native.import.err.cli"
 msgstr "<strong>WARNING:</strong> The XLSX converter to native OJS XML import plugin has not been configured in the config.inc.php configuration file. The configuration will depend on your server configuration. It should be specified in a section called [cli], in a configuration option called \"<b>xlsx2csv</b>\""
 
 msgid "plugins.importexport.xls2native.import.err.xlsx2csv"
-msgstr "<b>xlsx2csv</b> configuration option not found.</br>Use:</br>xlsx2csv = \"php path-to-convert.php {xlsx} path-to-pdf-dir output-dir\""
+msgstr "<b>xlsx2csv</b> configuration option not found.</br>Use:</br>xlsx2csv = \"php path-to-convert.php {xlsx} path-to-pdf-dir\""
 
 msgid "plugins.importexport.xls2native.results"
 msgstr "Results"
